@@ -103,7 +103,7 @@ int main(void)
     // HAL_Delay(100);
     HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_13);
     // HAL_Delay(100);
-    HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_12);
+    // HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_12);
     HAL_Delay(100);
     // HAL_UART_Transmit(&huart1, (uint8_t *)message, strlen(message), 100);
     /* USER CODE BEGIN 3 */
