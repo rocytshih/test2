@@ -13,7 +13,7 @@
                 "STM32F407xx"
             ],
             "intelliSenseMode": "gcc-arm",
-            "compilerPath": "../tool/7-2018-q2-update/bin/arm-none-eabi-gcc.exe",
+            "compilerPath": "D:\\STM32_project\\tool\\7-2018-q2-update\\bin\\arm-none-eabi-gcc.exe",
             "compilerArgs": [
                 "-mcpu=cortex-m4",
                 "-mthumb"
