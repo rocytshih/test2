@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
   30:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** /** @defgroup USBD_REQ
   31:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   * @brief USB standard requests module
   32:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   * @{
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 2
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 2
 
 
   33:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
   87:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
   88:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** /** @defgroup USBD_REQ_Private_Functions
   89:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   * @{
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 3
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 3
 
 
   90:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   */
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  144:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       break;
  145:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     }
  146:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     break;
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 4
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 4
 
 
  147:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  201:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     break;
  202:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   }
  203:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 5
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 5
 
 
  204:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   return ret;
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  258:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       default:
  259:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         USBD_CtlError(pdev, req);
  260:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         break;
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 6
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 6
 
 
  261:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       }
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  315:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       case USBD_STATE_CONFIGURED:
  316:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         if ((ep_addr & 0x80U) == 0x80U)
  317:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         {
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 7
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 7
 
 
  318:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****           if (pdev->ep_in[ep_addr & 0xFU].is_used == 0U)
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  372:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
  373:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** /**
  374:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** * @brief  USBD_GetDescriptor
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 8
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 8
 
 
  375:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** *         Handle Get Descriptor requests
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  429:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         err++;
  430:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       }
  431:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       break;
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 9
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 9
 
 
  432:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  486:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       else
  487:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       {
  488:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         USBD_CtlError(pdev, req);
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 10
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 10
 
 
  489:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         err++;
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  543:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       err++;
  544:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     }
  545:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     break;
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 11
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 11
 
 
  546:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  600:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       (void)USBD_LL_SetUSBAddress(pdev, dev_addr);
  601:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       (void)USBD_CtlSendStatus(pdev);
  602:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 12
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 12
 
 
  603:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       if (dev_addr != 0U)
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  657:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     }
  658:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     else
  659:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     {
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 13
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 13
 
 
  660:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       (void)USBD_CtlSendStatus(pdev);
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  714:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** * @retval status
  715:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** */
  716:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** static void USBD_GetConfig(USBD_HandleTypeDef *pdev, USBD_SetupReqTypedef *req)
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 14
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 14
 
 
  717:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** {
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  771:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       pdev->dev_config_status |= USB_CONFIG_REMOTE_WAKEUP;
  772:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     }
  773:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 15
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 15
 
 
  774:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     (void)USBD_CtlSendData(pdev, (uint8_t *)&pdev->dev_config_status, 2U);
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  828:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** /**
  829:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** * @brief  USBD_ParseSetupRequest
  830:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** *         Copy buffer into setup structure
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 16
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 16
 
 
  831:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** * @param  pdev: device instance
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  885:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   uint8_t *pdesc;
  886:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
  887:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   if (desc == NULL)
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 17
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 17
 
 
  888:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   {
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  925:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****     pbuff++;
   44              		.loc 1 925 0
   45 0008 0130     		adds	r0, r0, #1
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 18
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 18
 
 
   46              	.LVL4:
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
   92              	.LVL9:
  798:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
   93              		.loc 1 798 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 19
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 19
 
 
   94 0012 F9E7     		b	.L4
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
   23:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** 
   24:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #ifdef __cplusplus
   25:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** extern "C" {
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 20
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 20
 
 
   26:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #endif
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
   80:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** 
   81:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #define  USBD_IDX_LANGID_STR                            0x00U
   82:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #define  USBD_IDX_MFC_STR                               0x01U
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 21
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 21
 
 
   83:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #define  USBD_IDX_PRODUCT_STR                           0x02U
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  137:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** 
  138:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** 
  139:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** /*  EP0 State */
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 22
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 22
 
 
  140:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #define USBD_EP0_IDLE                                   0x00U
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  194:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** struct _USBD_HandleTypeDef;
  195:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** 
  196:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** typedef struct _Device_cb
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 23
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 23
 
 
  197:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** {
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  251:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #if ((USBD_LPM_ENABLED == 1U) || (USBD_CLASS_BOS_ENABLED == 1))
  252:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h ****   uint8_t *(*GetBOSDescriptor)(USBD_SpeedTypeDef speed, uint16_t *length);
  253:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** #endif
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 24
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 24
 
 
  254:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** } USBD_DescriptorsTypeDef;
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  308:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h ****   uint16_t _SwapVal, _Byte1, _Byte2;
  309:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h ****   uint8_t *_pbuff = addr;
  310:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h **** 
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 25
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 25
 
 
  311:Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h ****   _Byte1 = *(uint8_t *)_pbuff;
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  854:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** }
  168              		.loc 1 854 0
  169 0024 C380     		strh	r3, [r0, #6]	@ movhi
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 26
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 26
 
 
  170              	.LVL24:
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  222              		.cfi_startproc
  223              		@ args = 0, pretend = 0, frame = 8
  224              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 27
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 27
 
 
  225              	.LVL29:
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  274 0040 002B     		cmp	r3, #0
  275 0042 00F09980 		beq	.L39
  563:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         (void)USBD_CtlSendData(pdev, pbuf, len);
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 28
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 28
 
 
  276              		.loc 1 563 0
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  323 007e 0223     		movs	r3, #2
  324 0080 4370     		strb	r3, [r0, #1]
  325 0082 D7E7     		b	.L19
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 29
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 29
 
 
  326              	.LVL42:
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  374              	.L31:
  440:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         err++;
  375              		.loc 1 440 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 30
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 30
 
 
  376 00c0 2946     		mov	r1, r5
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  423 00fc D0F8B432 		ldr	r3, [r0, #692]
  424 0100 5B69     		ldr	r3, [r3, #20]
  425 0102 23B1     		cbz	r3, .L34
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 31
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 31
 
 
  472:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       }
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  472              		.loc 1 525 0
  473 013c D0F8B832 		ldr	r3, [r0, #696]
  474 0140 5B6B     		ldr	r3, [r3, #52]
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 32
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 32
 
 
  475 0142 0DF10600 		add	r0, sp, #6
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  522              	.LVL87:
  523 017c FFF7FEFF 		bl	USBD_CtlError
  524              	.LVL88:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 33
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 33
 
 
  525 0180 6AE7     		b	.L11
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  574 001a 032B     		cmp	r3, #3
  575 001c 0CD0     		beq	.L49
  599:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       (void)USBD_LL_SetUSBAddress(pdev, dev_addr);
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 34
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 34
 
 
  576              		.loc 1 599 0
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  624              	USBD_SetConfig:
  625              	.LFB139:
  627:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   USBD_StatusTypeDef ret = USBD_OK;
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 35
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 35
 
 
  626              		.loc 1 627 0
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  672 0030 2946     		mov	r1, r5
  673 0032 FFF7FEFF 		bl	USBD_CtlError
  674              	.LVL108:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 36
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 36
 
 
  636:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   }
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  718 0064 0026     		movs	r6, #0
  719 0066 E7E7     		b	.L52
  720              	.LVL119:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 37
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 37
 
 
  721              	.L55:
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  764 00a4 4160     		str	r1, [r0, #4]
  669:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       (void)USBD_CtlSendStatus(pdev);
  765              		.loc 1 669 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 38
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 38
 
 
  766 00a6 FFF7FEFF 		bl	USBD_ClrClassConfig
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  816              		.cfi_offset 14, -4
  718:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   {
  817              		.loc 1 718 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 39
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 39
 
 
  818 0002 CB88     		ldrh	r3, [r1, #6]
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  862              		.loc 1 741 0
  863 003a F3E7     		b	.L67
  864              		.cfi_endproc
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 40
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 40
 
 
  865              	.LFE140:
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  913 002a 08BD     		pop	{r3, pc}
  914              	.LVL146:
  915              	.L82:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 41
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 41
 
 
  759:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       break;
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  964              	.L88:
  817:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****         (void)USBD_CtlSendStatus(pdev);
  965              		.loc 1 817 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 42
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 42
 
 
  966 0014 0023     		movs	r3, #0
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1015 0016 0020     		movs	r0, #0
  150:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   }
  1016              		.loc 1 150 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 43
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 43
 
 
  1017 0018 03E0     		b	.L93
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1062              		.loc 1 120 0
  1063 0046 ECE7     		b	.L93
  1064              	.LVL165:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 44
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 44
 
 
  1065              	.L102:
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1105              		.loc 1 140 0
  1106 006c D9E7     		b	.L93
  1107              	.LVL175:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 45
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 45
 
 
  1108              	.L94:
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1157              	.LVL180:
  1158              	.L112:
  205:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 46
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 46
 
 
  1159              		.loc 1 205 0
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  165:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c **** 
  1206              		.loc 1 165 0
  1207 0058 0026     		movs	r6, #0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 47
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 47
 
 
  1208 005a DFE7     		b	.L112
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1258 0012 D1B2     		uxtb	r1, r2
  1259              	.LVL199:
  1260 0014 402B     		cmp	r3, #64
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 48
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 48
 
 
  1261 0016 05D0     		beq	.L117
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  260:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****       }
  1306              		.loc 1 260 0
  1307 0056 EBE7     		b	.L119
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 49
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 49
 
 
  1308              	.LVL206:
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1350 0084 E388     		ldrh	r3, [r4, #6]
  1351 0086 23B1     		cbz	r3, .L157
  1352              	.LVL213:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 50
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 50
 
 
  1353              	.L128:
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1396 00b8 FFF7FEFF 		bl	USBD_CtlError
  1397              	.LVL221:
  218:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   ep_addr = LOBYTE(req->wIndex);
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 51
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 51
 
 
  1398              		.loc 1 218 0
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1442              		.loc 1 285 0
  1443 00f4 FFF7FEFF 		bl	USBD_LL_ClearStallEP
  1444              	.LVL230:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 52
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 52
 
 
  1445 00f8 F1E7     		b	.L133
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1488 0132 0222     		movs	r2, #2
  1489              	.LVL236:
  1490 0134 2846     		mov	r0, r5
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 53
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 53
 
 
  1491              	.LVL237:
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1535              		.loc 1 334 0 discriminator 2
  1536 0178 01F07F02 		and	r2, r1, #127
  1537              	.LVL243:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 54
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 54
 
 
  333:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****               &pdev->ep_out[ep_addr & 0x7FU];
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1583              	.LVL250:
  218:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   ep_addr = LOBYTE(req->wIndex);
  1584              		.loc 1 218 0
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 55
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 55
 
 
  1585 01bc 0020     		movs	r0, #0
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1630 01f4 2146     		mov	r1, r4
  1631 01f6 FFF7FEFF 		bl	USBD_CtlError
  1632              	.LVL259:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 56
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 56
 
 
  218:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   ep_addr = LOBYTE(req->wIndex);
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1681              		.loc 1 895 0
  1682 0014 2870     		strb	r0, [r5]
  1683              	.LVL265:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 57
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 57
 
 
  897:Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c ****   idx++;
@@ -3415,10 +3415,10 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1725 0036 7047     		bx	lr
  1726              		.cfi_endproc
  1727              	.LFE146:
- 1729              		.section	.bss.cfgidx.9758,"aw",%nobits
+ 1729              		.section	.bss.cfgidx.9886,"aw",%nobits
  1730              		.set	.LANCHOR0,. + 0
- 1733              	cfgidx.9758:
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 58
+ 1733              	cfgidx.9886:
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 58
 
 
  1734 0000 00       		.space	1
@@ -3436,49 +3436,49 @@ ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 1
  1746              		.file 12 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
  1747              		.file 13 "Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h"
  1748              		.file 14 "Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h"
-ARM GAS  C:\Users\User\AppData\Local\Temp\ccyJU4c0.s 			page 59
+ARM GAS  C:\Users\User\AppData\Local\Temp\ccYSBHIf.s 			page 59
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 usbd_ctlreq.c
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:18     .text.USBD_GetLen:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:24     .text.USBD_GetLen:00000000 USBD_GetLen
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:60     .text.USBD_SetFeature:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:66     .text.USBD_SetFeature:00000000 USBD_SetFeature
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:99     .text.USBD_ParseSetupRequest:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:106    .text.USBD_ParseSetupRequest:00000000 USBD_ParseSetupRequest
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:177    .text.USBD_CtlError:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:184    .text.USBD_CtlError:00000000 USBD_CtlError
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:213    .text.USBD_GetDescriptor:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:219    .text.USBD_GetDescriptor:00000000 USBD_GetDescriptor
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:250    .text.USBD_GetDescriptor:0000001e $d
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:334    .text.USBD_GetDescriptor:0000008e $d
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:340    .text.USBD_GetDescriptor:00000094 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:538    .text.USBD_SetAddress:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:544    .text.USBD_SetAddress:00000000 USBD_SetAddress
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:618    .text.USBD_SetConfig:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:624    .text.USBD_SetConfig:00000000 USBD_SetConfig
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:794    .text.USBD_SetConfig:000000c4 $d
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:799    .text.USBD_GetConfig:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:805    .text.USBD_GetConfig:00000000 USBD_GetConfig
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:868    .text.USBD_GetStatus:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:874    .text.USBD_GetStatus:00000000 USBD_GetStatus
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:932    .text.USBD_ClrFeature:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:938    .text.USBD_ClrFeature:00000000 USBD_ClrFeature
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:983    .text.USBD_StdDevReq:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:990    .text.USBD_StdDevReq:00000000 USBD_StdDevReq
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1036   .text.USBD_StdDevReq:0000002e $d
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1046   .text.USBD_StdDevReq:00000038 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1120   .text.USBD_StdItfReq:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1127   .text.USBD_StdItfReq:00000000 USBD_StdItfReq
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1226   .text.USBD_StdEPReq:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1233   .text.USBD_StdEPReq:00000000 USBD_StdEPReq
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1647   .text.USBD_GetString:00000000 $t
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1654   .text.USBD_GetString:00000000 USBD_GetString
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1733   .bss.cfgidx.9758:00000000 cfgidx.9758
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:1734   .bss.cfgidx.9758:00000000 $d
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:257    .text.USBD_GetDescriptor:00000025 $d
-C:\Users\User\AppData\Local\Temp\ccyJU4c0.s:257    .text.USBD_GetDescriptor:00000026 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:18     .text.USBD_GetLen:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:24     .text.USBD_GetLen:00000000 USBD_GetLen
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:60     .text.USBD_SetFeature:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:66     .text.USBD_SetFeature:00000000 USBD_SetFeature
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:99     .text.USBD_ParseSetupRequest:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:106    .text.USBD_ParseSetupRequest:00000000 USBD_ParseSetupRequest
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:177    .text.USBD_CtlError:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:184    .text.USBD_CtlError:00000000 USBD_CtlError
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:213    .text.USBD_GetDescriptor:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:219    .text.USBD_GetDescriptor:00000000 USBD_GetDescriptor
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:250    .text.USBD_GetDescriptor:0000001e $d
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:334    .text.USBD_GetDescriptor:0000008e $d
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:340    .text.USBD_GetDescriptor:00000094 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:538    .text.USBD_SetAddress:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:544    .text.USBD_SetAddress:00000000 USBD_SetAddress
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:618    .text.USBD_SetConfig:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:624    .text.USBD_SetConfig:00000000 USBD_SetConfig
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:794    .text.USBD_SetConfig:000000c4 $d
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:799    .text.USBD_GetConfig:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:805    .text.USBD_GetConfig:00000000 USBD_GetConfig
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:868    .text.USBD_GetStatus:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:874    .text.USBD_GetStatus:00000000 USBD_GetStatus
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:932    .text.USBD_ClrFeature:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:938    .text.USBD_ClrFeature:00000000 USBD_ClrFeature
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:983    .text.USBD_StdDevReq:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:990    .text.USBD_StdDevReq:00000000 USBD_StdDevReq
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1036   .text.USBD_StdDevReq:0000002e $d
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1046   .text.USBD_StdDevReq:00000038 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1120   .text.USBD_StdItfReq:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1127   .text.USBD_StdItfReq:00000000 USBD_StdItfReq
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1226   .text.USBD_StdEPReq:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1233   .text.USBD_StdEPReq:00000000 USBD_StdEPReq
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1647   .text.USBD_GetString:00000000 $t
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1654   .text.USBD_GetString:00000000 USBD_GetString
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1733   .bss.cfgidx.9886:00000000 cfgidx.9886
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:1734   .bss.cfgidx.9886:00000000 $d
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:257    .text.USBD_GetDescriptor:00000025 $d
+C:\Users\User\AppData\Local\Temp\ccYSBHIf.s:257    .text.USBD_GetDescriptor:00000026 $t
 
 UNDEFINED SYMBOLS
 USBD_CtlSendStatus
